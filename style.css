@@ -1,8 +1,12 @@
 body{
-    background-color: rgb(240, 240, 248);
+    background-color: rgb(240, 18, 203);
     color:blueviolet ;
 }
 
 .cabeçalho-img {
-    width: 50%;
+    width: 35%;
 }
+.cabeçalho{
+background-color: #86216d;
+color: rgb(74, 241, 247);
+} 
