@@ -4,9 +4,15 @@ body{
 }
 
 .cabeçalho-img {
-    width: 35%;
+    width: 8%;
 }
 .cabeçalho{
 background-color: #86216d;
 color: rgb(74, 241, 247);
+display: flex;
+  justify-content: space-around;
 } 
+
+.cabeçalho-lista-item{
+display: inline-block;
+    }
